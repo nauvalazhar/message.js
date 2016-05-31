@@ -1,6 +1,16 @@
 # message.js 
 free jquery plugin to display a message at the top of the browser
 
+### Features
+- Easy to use
+- Fully Resonsive
+- 4 types of messages
+- Cross-browser compatible
+- Automatic closing message
+- Callback function
+- Lightweight
+- Only 8 KB
+
 ### How to use?
 This plugin is very easy to use!
 #### Call the plugin
@@ -10,6 +20,13 @@ This plugin is very easy to use!
 ```html
 <head>
 ...
+<!-- requires jquery version 1.7.x or higher -->
+<script src="path-to-jquery/jquery.min.js"></script>
+
+<!-- requires font-awesome -->
+<link href="path-to-font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
+<!-- message.js -->
 <script src="path-to-message-js/message.js"></script>
 <link href="path-to-message-js/message.css" rel="stylesheet">
 ...
